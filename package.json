@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "blind-signatures": "^1.0.7",
-    "jsbn": "^1.1.0"
+    "blind-signatures": "^1.0.7"
   }
 }
